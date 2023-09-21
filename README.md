@@ -6,4 +6,4 @@
         - 02 Progress Steps ✔️
         - 03 Rotating Navigation ✔️
         - 04 Hidden Search Widget ✔️
-
+        - 05 - Blurry Loading ✔️
