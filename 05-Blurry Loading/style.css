@@ -28,5 +28,6 @@ body {
 
 .loading-text {
     font-size: 100px;
+    font-weight: bolder;
     color: #000000;
 }
